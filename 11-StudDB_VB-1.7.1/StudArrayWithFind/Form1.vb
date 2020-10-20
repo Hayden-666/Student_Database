@@ -38,7 +38,7 @@
         students(2).DOB = "6/5/61"
         students(2).gender = "f"
         students(2).avMk = 68.2
-        students(3).firstname = "Scarleeeeeeeeeeeeeeeeeett"
+        students(3).firstname = "Scarlett"
         students(3).lastname = "Johansson"
         students(3).DOB = "22/11/84"
         students(3).gender = "f"
