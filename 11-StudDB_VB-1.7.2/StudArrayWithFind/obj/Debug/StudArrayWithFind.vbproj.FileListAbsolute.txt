@@ -1,0 +1,12 @@
+C:\Users\haita\OneDrive\Git\Student_Database\11-StudDB_VB-1.7.2\StudArrayWithFind\bin\Debug\StudArrayWithFind.exe.config
+C:\Users\haita\OneDrive\Git\Student_Database\11-StudDB_VB-1.7.2\StudArrayWithFind\bin\Debug\StudArrayWithFind.exe
+C:\Users\haita\OneDrive\Git\Student_Database\11-StudDB_VB-1.7.2\StudArrayWithFind\bin\Debug\StudArrayWithFind.pdb
+C:\Users\haita\OneDrive\Git\Student_Database\11-StudDB_VB-1.7.2\StudArrayWithFind\bin\Debug\StudArrayWithFind.xml
+C:\Users\haita\OneDrive\Git\Student_Database\11-StudDB_VB-1.7.2\StudArrayWithFind\obj\Debug\StudArrayWithFind.vbprojAssemblyReference.cache
+C:\Users\haita\OneDrive\Git\Student_Database\11-StudDB_VB-1.7.2\StudArrayWithFind\obj\Debug\StudArrayWithFind.Form1.resources
+C:\Users\haita\OneDrive\Git\Student_Database\11-StudDB_VB-1.7.2\StudArrayWithFind\obj\Debug\StudArrayWithFind.Resources.resources
+C:\Users\haita\OneDrive\Git\Student_Database\11-StudDB_VB-1.7.2\StudArrayWithFind\obj\Debug\StudArrayWithFind.vbproj.GenerateResource.cache
+C:\Users\haita\OneDrive\Git\Student_Database\11-StudDB_VB-1.7.2\StudArrayWithFind\obj\Debug\StudArrayWithFind.vbproj.CoreCompileInputs.cache
+C:\Users\haita\OneDrive\Git\Student_Database\11-StudDB_VB-1.7.2\StudArrayWithFind\obj\Debug\StudArrayWithFind.exe
+C:\Users\haita\OneDrive\Git\Student_Database\11-StudDB_VB-1.7.2\StudArrayWithFind\obj\Debug\StudArrayWithFind.xml
+C:\Users\haita\OneDrive\Git\Student_Database\11-StudDB_VB-1.7.2\StudArrayWithFind\obj\Debug\StudArrayWithFind.pdb
